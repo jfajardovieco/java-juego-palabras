@@ -1,18 +1,18 @@
-## Getting Started
+##JUEGO DE ADIVINAR LA PALABRA EN JAVA
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Se realiza juego de adivinar la palabra en JAVA donde se debe ir adivinando  letra por letra para poder completar la palabra oculta, este juego tiene cierta cantidad de intentos
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+##Conocimientos:
+Se aplican conocimientos básicos como:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Variables(declaraciones, asignaciones)
+-  Condicionales((if)
+-  Ciclos(for, while)
+- Arreglos
+- Clase Scanner
+- Metodos String
+- Metodos Arrays
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+link Github: https://github.com/jfajardovieco
